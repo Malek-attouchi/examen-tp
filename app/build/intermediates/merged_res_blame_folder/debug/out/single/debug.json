@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_very_cloudy.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_very_cloudy.xml"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_sunny.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_sunny.xml"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_pressure.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_pressure.xml"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_drop.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_drop.xml"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_snowy.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_snowy.xml"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_rainshower.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_rainshower.xml"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_sunnycloudy.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_sunnycloudy.xml"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_windy.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_windy.xml"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_heavysnow.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_heavysnow.xml"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_wind.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_wind.xml"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_sunnyrainy.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_sunnyrainy.xml"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_snowyrainy.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_snowyrainy.xml"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_rainythunder.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_rainythunder.xml"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_thunder.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_thunder.xml"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_rainy.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_rainy.xml"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_cloudy.xml.flat",
+        "source": "D:\\DSI31\\tp_kotlin\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_cloudy.xml"
+    }
+]
